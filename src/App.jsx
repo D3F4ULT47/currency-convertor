@@ -86,7 +86,6 @@ function App() {
                         type="submit" 
                         className="w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold py-4 px-6 rounded-xl shadow-lg transform hover:scale-[1.02] transition-all duration-200 text-lg"
                     >
-                        <span className="inline-block mr-2">💱</span>
                         Convert {from.toUpperCase()} to {to.toUpperCase()}
                     </button>
                 </form>

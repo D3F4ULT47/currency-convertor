@@ -21,7 +21,7 @@ function InputBox({
                  {label}
               </label>
               <input
-                  key={ amountInputId}
+                  key={amountInputId}
                   className="outline-none w-full bg-transparent py-2 text-lg font-semibold text-gray-800 placeholder-gray-400"
                   type="number"
                   placeholder="Enter amount"
